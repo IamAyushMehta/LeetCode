@@ -1,7 +1,10 @@
 class Solution {
     public static boolean isPalindrome(int x) {
         int temp = x, rev = 0;
-        while(x > 0) {
+        if(x < 0) {
+            return false;
+        } else {
+            while(x > 0) {
             rev = rev * 10 + x % 10;
             x /= 10;
         }
@@ -10,5 +13,6 @@ class Solution {
         } else {
             return false;
         }
+        }      
     }
 }
