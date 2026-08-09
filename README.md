@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/IamAyushMehta/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/IamAyushMehta/LeetCode/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/IamAyushMehta/LeetCode/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/IamAyushMehta/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
